@@ -1,0 +1,15 @@
+{
+  "kpis": {
+    "customers": "4,338",
+    "repeat": "65.6%",
+    "orders": "4.3",
+    "churn": "33.4%"
+  },
+  "findings": [
+    "65.6% of customers ordered more than once.",
+    "The top 20% of customers generate 74.7% of revenue.",
+    "33.4% of customers have not bought in the last 90 days of the dataset.",
+    "Champions are 29.2% of customers; 22.8% are at risk.",
+    "Median spend per customer is 668.57 against a mean of 2,048.69, so a small group of high spenders lifts the average."
+  ]
+}
